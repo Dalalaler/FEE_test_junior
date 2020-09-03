@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68bbaeb9-3514-4425-837a-fcfc7b9008ee" name="Default Changelist" comment="Added Task Filesdde">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="f00ae981-03f0-4926-a054-e932583b90bd" />
+  <component name="ProjectId" id="1gydJRnGPUyiz4CkHZ7IxmR6ikL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../psd_to_html_beloweb/index.html" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\UserHome\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68bbaeb9-3514-4425-837a-fcfc7b9008ee" name="Default Changelist" comment="" />
+      <created>1599090694994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599090694994</updated>
+      <workItem from="1599090702401" duration="2975000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Task Files">
+      <created>1599091383134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599091383134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Task Filesdde">
+      <created>1599091731586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599091731586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Task Files" />
+    <MESSAGE value="Added Task Filesdde" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Task Filesdde" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1599092393113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599092393113" />
+    <state x="635" y="310" key="Github.ShareDialog" timestamp="1599091184336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1599091184336" />
+    <state x="614" y="117" key="Github.UntrackedFilesDialog" timestamp="1599091200015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599091200015" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599091757829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599091757829" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599091250851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1599091250851" />
+    <state x="558" y="98" width="429" height="627" key="svn.repositoryBrowser" timestamp="1599090828752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="98" width="429" height="627" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1599090828752" />
+  </component>
+</project>

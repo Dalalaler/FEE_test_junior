@@ -1,7 +1,4 @@
 @charset "UTF-8";
-/**
-* Eric Meyer's Reset CSS v2.0
-*/
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -23,7 +20,7 @@ time, mark, audio, video, input, textarea {
   vertical-align: baseline;
 }
 
-/* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure,
 footer, header, menu, nav, section, time {
   display: block;
@@ -59,7 +56,6 @@ table {
   border-spacing: 0;
 }
 
-/* meyerweb css reset end */
 
 textarea:focus, input:focus {
   outline: 0;
@@ -90,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .group {
-  zoom: 1; /* ie 6/7 */
+  zoom: 1;
 }
 
 embed,
@@ -108,11 +104,11 @@ sub {
   vertical-align: text-bottom;
 }
 .no-space-between-inline-blocks {
-  *letter-spacing: normal; /*reset IE < 8*/
-  letter-spacing: -0.31em; /*webkit*/
-  word-spacing: -0.43em; /*IE < 8 && gecko*/
+  *letter-spacing: normal;
+  letter-spacing: -0.31em;
+  word-spacing: -0.43em;
 }
-/*restore spacing on inner elements*/
+
 .no-space-between-inline-blocks > * {
   letter-spacing: normal;
   word-spacing: normal;
@@ -218,6 +214,7 @@ body {
   width: 8px;
 }
 .contact-us {
+  display: inline-block;
   float: right;
   min-height: 60px;
   padding: 18px 8.127209%; /* 23px / 283px = 8.127209% */
@@ -229,7 +226,7 @@ body {
   background: #ffffff;
   -webkit-box-shadow: 0 5px 10px 0 rgba(25, 45, 51, 0.15);
   -moz-box-shadow: 0 5px 10px 0 rgba(25, 45, 51, 0.15);
-  box-shadow: 0 5px 10px 0 rgba(25, 45, 51, 0.15); /*drop shadow*/
+  box-shadow: 0 5px 10px 0 rgba(25, 45, 51, 0.15);
 }
 .arrow {
   float: right;
@@ -247,6 +244,9 @@ body {
   position: relative;
   width: 85.56022%; /* 1428px / 1669px = 85.56022% */
 }
+.btn {
+  display: inline-block;
+   }
 .title {
   float: left;
   margin: 135px 0 0;
@@ -280,7 +280,7 @@ body {
   background: #ff3946;
   -webkit-box-shadow: 0 5px 10px 0 rgba(255, 57, 70, 0.15);
   -moz-box-shadow: 0 5px 10px 0 rgba(255, 57, 70, 0.15);
-  box-shadow: 0 5px 10px 0 rgba(255, 57, 70, 0.15); /*drop shadow*/
+  box-shadow: 0 5px 10px 0 rgba(255, 57, 70, 0.15);
   color: #ffffff;
   font-weight: 600;
   line-height: 55px;
@@ -394,6 +394,7 @@ body {
   background: #f4fafe;
   font-weight: 600;
 }
+
 .subject {
   float: left;
   min-height: 60px;
